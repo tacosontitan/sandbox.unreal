@@ -1,10 +1,10 @@
-# Sandbox
+# 💃 Sandbox
 
-Developed with Unreal Engine 5
+A simple sandbox project for learning UE5, Blueprints, and C++.
 
-## 🎮 Games
+***Inspired By**: [dotnet-console-games](https://github.com/dotnet/dotnet-console-games)*
 
-### 🔢 Guess the Number
+## 🔢 Guess the Number
 
 This basic game is the very first game added to this repository. When the game loads, a random number between `1` and `100` is chosen and the player must guess the number within 10 tries. There's a lamp in this level that indicates how close the player's current guess is to the target number. It does this by using a blue color to represent "cold" guesses and an orange color to represent "hot" guesses.
 
