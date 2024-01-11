@@ -18,7 +18,7 @@ Once you have the above installed, you can clone this repository and open the pr
 
 ## 📚 Documentation
 
-The documentation for this project is located in the `.documentation` directory. Each game has its own documentation file that explains the game's rules and how it works.
+The documentation for this project is located in the `.documentation` directory. Each game has its own documentation file that explains the game's rules and how it was implemented.
 
 | Game                                                   | Description                                              |
 |--------------------------------------------------------|----------------------------------------------------------|
