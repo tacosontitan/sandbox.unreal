@@ -12,6 +12,7 @@ This basic game is the very first game added to this repository. When the game l
 
 When the correct number is guessed, the lamp turns green:
 
-![A screenshot of the number 42 highlighted with the green glow from a local lamp with the words "Guess the Number" at the bottom of the screen.](https://github.com/tacosontitan/sandbox.unreal/assets/65432314/2f239c7f-4136-4e1a-834e-758f8b24221c)
+![A screenshot of the number 42 highlighted with the green glow from a local lamp with the words "Guess the Number" at the bottom of the screen.](https://github.com/tacosontitan/sandbox.unreal/assets/65432314/d7ff5734-84e0-4a5a-854b-8c53503a946a)
+
 
 Then, the player is given the option to play again or navigate to the main menu.
