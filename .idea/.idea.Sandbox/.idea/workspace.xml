@@ -96,6 +96,7 @@
       <workItem from="1705783396042" duration="11000" />
       <workItem from="1705785627803" duration="5724000" />
       <workItem from="1705808013906" duration="6574000" />
+      <workItem from="1706385200508" duration="924000" />
     </task>
     <task id="LOCAL-00002" summary="Created code of conduct. ⚖️">
       <option name="closed" value="true" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705802386263</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Imported megascans and started creating the menu environment.">
+      <option name="closed" value="true" />
+      <created>1706386552458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706386552458</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +161,8 @@
     <MESSAGE value="Added license. ️" />
     <MESSAGE value="Added contribution instructions. " />
     <MESSAGE value="Started reworking the menu system." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started reworking the menu system." />
+    <MESSAGE value="Imported megascans and started creating the menu environment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported megascans and started creating the menu environment." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
