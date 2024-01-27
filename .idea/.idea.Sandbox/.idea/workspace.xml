@@ -96,7 +96,7 @@
       <workItem from="1705783396042" duration="11000" />
       <workItem from="1705785627803" duration="5724000" />
       <workItem from="1705808013906" duration="6574000" />
-      <workItem from="1706385200508" duration="1570000" />
+      <workItem from="1706385200508" duration="2809000" />
     </task>
     <task id="LOCAL-00002" summary="Created code of conduct. ⚖️">
       <option name="closed" value="true" />
@@ -154,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706386593529</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added more megascans and improved menu.">
+      <option name="closed" value="true" />
+      <created>1706393299433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706393299433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added crappy wind to foliage.">
+      <option name="closed" value="true" />
+      <created>1706394631873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706394631873</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +198,9 @@
     <MESSAGE value="Started reworking the menu system." />
     <MESSAGE value="Imported megascans and started creating the menu environment." />
     <MESSAGE value="Added a work item to the workspace " />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a work item to the workspace " />
+    <MESSAGE value="Added more megascans and improved menu." />
+    <MESSAGE value="Added crappy wind to foliage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added crappy wind to foliage." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
