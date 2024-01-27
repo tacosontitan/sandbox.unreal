@@ -17,8 +17,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="features/main-menu" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,32 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "features/main-menu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ml.llm.LLMDataSharingConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;reboot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMDataSharingConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ],
-    "rider.external.source.directories": [
-      "C:\\Users\\JamieDavis\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\JamieDavis\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\JamieDavis\\AppData\\Local\\Symbols\\src"
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\JamieDavis\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\JamieDavis\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\JamieDavis\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Updated documentation for &quot;guess the number&quot;.">
@@ -79,7 +94,8 @@
       <workItem from="1705016427835" duration="2834000" />
       <workItem from="1705252321036" duration="109000" />
       <workItem from="1705783396042" duration="11000" />
-      <workItem from="1705785627803" duration="4727000" />
+      <workItem from="1705785627803" duration="5724000" />
+      <workItem from="1705808013906" duration="6574000" />
     </task>
     <task id="LOCAL-00002" summary="Created code of conduct. ⚖️">
       <option name="closed" value="true" />
@@ -113,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705019681399</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started reworking the menu system.">
+      <option name="closed" value="true" />
+      <created>1705802386262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705802386263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +151,8 @@
     <MESSAGE value="Created security policy. " />
     <MESSAGE value="Added license. ️" />
     <MESSAGE value="Added contribution instructions. " />
-    <option name="LAST_COMMIT_MESSAGE" value="Added contribution instructions. " />
+    <MESSAGE value="Started reworking the menu system." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started reworking the menu system." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
