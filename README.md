@@ -1,10 +1,13 @@
 # 💃 Sandbox
 
-A simple sandbox project for learning UE5, Blueprints, and C++. Each level's creation is being documented here, and the design for each level can be found over on [Artstation](https://www.artstation.com/artwork/LRdNdw) for progressive shots as each level evolves.
+A simple sandbox project for learning UE5, Blueprints, and C++.
 
 ![An image portraying several pineapples in the desert illuminated by party lights in night time ambiance using gigantic scale.](https://github.com/tacosontitan/sandbox.unreal/assets/65432314/d1eefeb1-459f-4115-9b4e-5fb42de17cb5)
 
 ***Inspired By**: [dotnet-console-games](https://github.com/dotnet/dotnet-console-games)*
+
+> [!IMPORTANT]
+> Each level's creation is being documented here, and the design for each level can be found over on [Artstation](https://www.artstation.com/artwork/LRdNdw) for progressive shots as each level evolves.
 
 ## 🚀 Getting Started
 
