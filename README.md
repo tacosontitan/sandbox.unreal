@@ -6,12 +6,20 @@ A simple sandbox project for learning UE5, Blueprints, and C++.
 
 ***Inspired By**: [dotnet-console-games](https://github.com/dotnet/dotnet-console-games)*
 
-## 🔢 Guess the Number
+## 🚀 Getting Started
 
-This basic game is the very first game added to this repository. When the game loads, a random number between `1` and `100` is chosen and the player must guess the number within 10 tries. There's a lamp in this level that indicates how close the player's current guess is to the target number. It does this by using a blue color to represent "cold" guesses and an orange color to represent "hot" guesses.
+In order to get started, you'll need to have the following installed:
 
-When the correct number is guessed, the lamp turns green:
+- [Unreal Engine 5](https://www.unrealengine.com/en-US/download)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+- [Git](https://git-scm.com/downloads)
 
-![A screenshot of the number 42 highlighted with the green glow from a local lamp with the words "Guess the Number" at the bottom of the screen.](https://github.com/tacosontitan/sandbox.unreal/assets/65432314/2f239c7f-4136-4e1a-834e-758f8b24221c)
+Once you have the above installed, you can clone this repository and open the project in Unreal Engine 5.
 
-Then, the player is given the option to play again or navigate to the main menu.
+## 📚 Documentation
+
+The documentation for this project is located in the `.documentation` directory. Each game has its own documentation file that explains the game's rules and how it was implemented.
+
+| Game                                                   | Description                                              |
+|--------------------------------------------------------|----------------------------------------------------------|
+| [Guess the Number](.documentation/GUESS_THE_NUMBER.md) | Guess a random number between 1 and 100 within 10 tries. |
